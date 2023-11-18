@@ -106,9 +106,6 @@ header {
         font-size: 20px;
         line-height: 1.8em;
     }
-    .memu {
-        display:none;
-    }
     /* 響應式設計語法 */
     @media screen and (max-width: 768px) {
         header ul {
@@ -120,17 +117,6 @@ header {
         }
         .簡介 h2 {
             font-size:40px;
-        }
-        .memu {
-            display: block;
-            background-color: transparent;
-            color: white;
-            font-size: 35px;
-            position: absolute;
-            top: 15px;
-            left: 20px;
-            border: none;
-            cursor: pointer;
         }
         .統計數量 {
             font-size: 30px;
