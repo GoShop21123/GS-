@@ -106,22 +106,3 @@ header {
         font-size: 20px;
         line-height: 1.8em;
     }
-    /* 響應式設計語法 */
-    @media screen and (max-width: 768px) {
-        header ul {
-            display:none;
-        }
-        header h1 {
-            left:50%;
-            transform: translateX(-50%);
-        }
-        .簡介 h2 {
-            font-size:40px;
-        }
-        .統計數量 {
-            font-size: 30px;
-        }
-        .為什麼選擇 {
-            font-size: 30px;
-        }
-    }
