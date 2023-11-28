@@ -4,7 +4,7 @@
 }
 header {
     background-color: #231C1A;
-    }
+}
     header {
         background-color: black;
         height:90px;
@@ -39,13 +39,13 @@ header {
 
     h1 {
         position:absolute;
-        left:80px;
+        left:30px;
         top:0; 
-        line-height: 90px;
-        background-image:url(logo黑.png);
+        line-height: 88px;
+        background-image:url(琴島製品KP.jpeg);
         background-repeat: no-repeat;
         background-position: center;
-        width:210px;
+        width:400px;
         text-indent:-9999px;        
     }
     .簡介-琴島 {
