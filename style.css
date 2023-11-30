@@ -17,6 +17,10 @@ header {
         display:inline;
         margin-right:2vw;
     }
+    .導覽列 li{
+        display:inline;
+        margin-right:2vw;
+    }
     header a {
     color:white;
     text-decoration: none;
@@ -24,11 +28,24 @@ header {
     header a:hover {
     text-decoration: underline;
     }
+    .導覽列 a:hover {
+        text-decoration: underline;
+        }
     header ul{
         position:absolute;
         right:5vw;
         top:0;
         line-height:95px;
+    }
+    .導覽列 ul{
+        position:absolute;
+        right:5vw;
+        top:0;
+        line-height:95px;
+    }
+    .導覽列 li{
+        display:inline;
+        margin-right:2vw;
     }
     h1 {
        position:absolute;
@@ -41,7 +58,7 @@ header {
         position:absolute;
         left:30px;
         top:0; 
-        line-height: 88px;
+        line-height: 90px;
         background-image:url(琴島製品KP.jpeg);
         background-repeat: no-repeat;
         background-position: center;
