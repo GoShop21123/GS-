@@ -103,15 +103,18 @@ header {
         align-items: center;
         font-size: 14px;
     }
-    .這週推薦 {
+    .關於 {
         background-color: black;
         color: white;
         height: 250px;
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 20px;
+        font-size: 14px;
         line-height: 1.8em;
+    }
+    .關於 h2 {
+        font-size: 30px;
     }
     .導覽列 a {
         color:white;
