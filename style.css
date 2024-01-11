@@ -8,7 +8,8 @@ header {
     header {
         background-color: black;
         height:90px;
-        width:125%;
+        width:100%;
+        
     }
     h1 {
     color:white;
@@ -35,7 +36,7 @@ header {
         position:absolute;
         right:5vw;
         top:0;
-        line-height:95px;
+        line-height:90px;
     }
     .導覽列 ul{
         position:absolute;
@@ -49,7 +50,7 @@ header {
     }
     h1 {
        position:absolute;
-       left:120px;
+       left:80px;
        top:0;
        line-height:80px;
     }
@@ -59,11 +60,9 @@ header {
         left:30px;
         top:0; 
         line-height: 90px;
-        background-image:url(琴島製品KP.jpeg);
         background-repeat: no-repeat;
         background-position: center;
-        width:400px;
-        text-indent:-9999px;        
+        width:400px;      
     }
     .簡介-琴島 {
         background-color: antiquewhite;
@@ -80,7 +79,7 @@ header {
         justify-content: center;
     }
     .簡介-琴島 h2 {
-        font-size:60px;
+        font-size:40px;
     }
     .簡介-琴島 p {
         color:#FEF7E6;
@@ -115,11 +114,4 @@ header {
     }
     .關於 h2 {
         font-size: 30px;
-    }
-    .導覽列 a {
-        color:white;
-        text-decoration: none;
-        border: 1px solid #FEF7E6;
-        padding:10px 20px;
-        border-radius: 5px;
     }
